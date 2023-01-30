@@ -11,7 +11,7 @@ Having some fun, and also test your knowledge in quick moments, like waiting in 
 ## Why?
 This project is part of my personal portfolio ( first steps 🤩 ), so, I'll be very happy if you could provide me any feedback about the project!
 
-Email-me: gabrielbressi@gmail.com
+Email-me: gabrielbressi18@gmail.com
 
 Connect with me on Linkedin: [LinkedIn](https://www.linkedin.com/in/gabriel-bressi-da-silva-b058a91a4/).
 
