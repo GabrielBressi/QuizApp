@@ -16,7 +16,7 @@ Email-me: gabrielbressi@gmail.com
 Connect with me on Linkedin: [LinkedIn](https://www.linkedin.com/in/gabriel-bressi-da-silva-b058a91a4/).
 
 # Installers
-If you want to test the App, download the APK linked below:
+If you want to test the App, download the APK linked below:<br/>
 [Quiz App .apk Installer](https://drive.google.com/file/d/1kd82YsHZUEJ-nk3sBkPxzfPN6T4RvxD7/view?usp=sharing)
 
 
